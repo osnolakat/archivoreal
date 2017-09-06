@@ -3,7 +3,7 @@ function iniciar(argument) {
 	lienzo = elemento.getContext('2d');
 	var archivos = document.getElementById('archivos');
 	archivos.addEventListener('change', procesar, false);
-	window.webkitRequestFileSystem(window.TEMPORARY, 5*1024*1024, creardd, errores);
+	window.webkitRequestFileSystem(window.PERSISTENT, 5*1024*1024, creardd, errores);
 }
 function creardd(sistema) {
 	dd = sistema.root;
