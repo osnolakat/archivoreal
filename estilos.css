@@ -1,0 +1,17 @@
+#cajaformulario{
+	float: left;
+	padding: 20px;
+	border: 4px solid #F44545;
+}
+#cajadatos{
+	float: left;
+	width: 500px;
+	margin-left: 20px;
+	padding: 20px;
+	border: 4px solid #61E9DE;
+}
+.directorio{
+	color: #5656F7;
+	font-weight: bold;
+	cursor: pointer;
+}
