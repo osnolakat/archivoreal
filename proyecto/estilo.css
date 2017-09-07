@@ -1,0 +1,49 @@
+#poscion1{
+  position: fixed;
+  left: 0px;
+  bottom: 125px;
+  background: red;
+  padding: 20px;
+}
+#poscion2{
+  position: fixed;
+  left: 0px;
+  bottom: 50px;
+  background: blue;
+  padding: 20px;
+}
+#poscion3{
+  position: fixed;
+  left: 110px;
+  bottom: 50px;
+  background: green;
+  padding: 20px;
+}
+#poscion4{
+  position: fixed;
+  right: 120px;
+  bottom: 50px;
+  padding: 20px;
+  background: gray;
+}
+#poscion5{
+  position: fixed;
+  right: 0px;
+  bottom: 50px;
+  padding: 20px;
+  background: gray;
+}
+#poscion6{
+  position: fixed;
+  right: 0px;
+  bottom: 125px;
+  padding: 20px;
+  background: gray;
+}
+#poscion7{
+  position: fixed;
+  left: 40%;
+  bottom: 50px;
+  padding: 20px;
+  background: yellow;
+}
